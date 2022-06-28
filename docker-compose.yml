@@ -19,6 +19,6 @@ services:
 # python3 -m pip install --upgrade pip
 # pip install dbt-core dbt-postgres
 # dbt --version
-# dbt ini dbt_webinar
+# dbt init dbt_webinar
 # 
 # pg_restore -U postgres -d dvdrental /dvdrental/dvdrental.tar
