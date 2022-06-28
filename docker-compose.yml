@@ -21,4 +21,4 @@ services:
 # dbt --version
 # dbt ini dbt_webinar
 # 
-# pg_restore -U postgres -d dvdrental /dvdrental
+# pg_restore -U postgres -d dvdrental /dvdrental/dvdrental.tar
